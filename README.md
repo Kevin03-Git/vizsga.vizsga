@@ -1,0 +1,2 @@
+# vizsga.vizsga
+SIKERES
